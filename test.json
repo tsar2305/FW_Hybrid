@@ -1,0 +1,46 @@
+{
+  "candidates": [
+    {
+      "name": "Ram",
+      "course": [
+        "Python",
+        "SQL"
+      ],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Mika Tyson",
+      "phone": "8134168343",
+      "course": [
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "id": "cf2a",
+      "name": "Miley Cyrus",
+      "phone": "92341683564",
+      "course": [
+        "MongoDB",
+        "Python"
+      ]
+    },
+    {
+      "id": "b149",
+      "name": "Somu",
+      "course": [
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Somu",
+      "course": [
+        "Python",
+        "SQL"
+      ]
+    }
+  ]
+}

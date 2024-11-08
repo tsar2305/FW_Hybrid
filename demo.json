@@ -1,0 +1,34 @@
+{
+  "List": [
+    {
+      "id": 1,
+      "system": "Macbook",
+      "processor": "Apple",
+      "version": 2.1
+    },
+    {
+      "id": 2,
+      "system": "Windows",
+      "processor": "Intel",
+      "version": 4.2
+    },
+    {
+      "id": 3,
+      "system": "Windows",
+      "processor": "Ryzen",
+      "version": 5.1
+    },
+    {
+      "id": 4,
+      "system": "Linux",
+      "processor": "Ubuntu",
+      "version": 3
+    },
+    {
+      "id": "3b4c",
+      "system": "Asus ROG",
+      "processor": "nvidia",
+      "version": 3.5
+    }
+  ]
+}
